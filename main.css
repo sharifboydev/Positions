@@ -12,10 +12,19 @@
 }
 
 .content-box {
-  width: 50px;
-  height: 50px;
+  width: 150px;
+  height: 150px;
   background-color: green;
   position: absolute;
   bottom: 0;
   right: 0;
+}
+
+.content-box_little {
+  width: 80px;
+  height: 80px;
+  background-color: yellow;
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }
